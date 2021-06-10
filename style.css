@@ -74,7 +74,7 @@ body {
 .link {
     display: grid;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 8;
     font-family: var(--font);
     margin: auto;
     color: var(--bgColor);
